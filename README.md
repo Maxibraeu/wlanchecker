@@ -1,0 +1,1 @@
+Wlan checker/hacker ist ein Java programm, das die in der config.txt gegebenen daten nutzt um an einem Windows Computer an dem ein Wlan passwort vorhanden ist dieses Ausliest und in eine Datei Speichert.
